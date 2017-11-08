@@ -1,0 +1,36 @@
+.red-box {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: red; 
+    color: red;
+}
+
+.blue-box {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: blue; 
+    color: blue;
+}
+
+.green-box {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: green; 
+    color: green;
+}
+
+.yellow-box {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: yellow; 
+    color: yellow;
+}
+
+li {
+    float: left;
+    list-style-type: none;
+}
